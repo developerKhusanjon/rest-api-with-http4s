@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec({file:/Users/khusanjon/IdeaProjects/main/scala-rest-api-with-http4s-doobie/}root/ivySbt, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0m{file:/Users/khusanjon/IdeaProjects/main/scala-rest-api-with-http4s-doobie/}root/ivySbt[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
